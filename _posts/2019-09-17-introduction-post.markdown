@@ -4,22 +4,16 @@ title:  "Introduction Post"
 date:   2019-09-17 20:06:33 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Overall, setting up the blog was a very smooth experience. The instructions on the lab page were very clear, and the only time I encountered any problems was when I glossed over when I was supposed to change directories. I would say using the command prompt was the most interesting part of the lab, watching it do so much background work with only a few inputs was impressive.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This wasn't the first time I've seen the sudo command, as over the summer I tried implementing an [osu! bot][osu-bot] for one of my Discord servers. It quickly became a task that seemed way out of reach, using many programs/languages I'd never seen before. Taken from the page, I tried working with
++ Node.js 10 LTS
++ node-gyp
++ gcc/g++
++ node-canvas dependencies
+and eventually gave up due to confusion. I don't see these directly on the course description, but I hope this class will help me learn to use these programs for not only the Discord bot, but also for other similar programs in the future.
 
-Jekyll also offers powerful support for code snippets:
+When I first finished step 4, I was worried I did something wrong as the blog looked like a website without any css. While I'm not sure quite how the Jekyll code works, it was good to see the blog fixed with a single line.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[osu-bot]: https://github.com/LeaPhant/flowabot
