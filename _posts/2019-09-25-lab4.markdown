@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Lab 4"
+date:   2019-09-25 21:06:33 -0500
+categories: jekyll update
+---
+Make a new post about styling your blog with this more difficult template. You must include at least two links and two images in your post. What parts were new to you? What parts did you struggle with? What parts still do not make sense? What are you looking forward to?
+
+It feels like no matter which step I was on, my next goal was like a rotating 4D cube. I could see it in front of me, but it would keep changing and I never quite understood. I made the initial mistake of trying to implement Jasper by dragging over a couple files at a time as the command prompt requested them in the server. What I ended up with was a jumbled mess of files that I had to eventually just scrap and revert a night's worth of work. I learned that if a certain approach isn't working, it's probably worth reverting and trying another method instead of hardheadedly trying the same thing.
+
+I did get fed up enough to capture one of the recurring problems, where I would watch files physically delete themselves, as a [gif][gif]. I think the part I struggled *most* with was finding what file to change that wouldn't be edited by another file when the server was run. Simply doing ctrl+f and replacing all instances of a website link with another seemed to work less than half the time. It still feels like a guessing game when I change a file, I can only hope when I run the server that the html doesn't revert to what it was before.
+
+The whole learning process feels completely different from other subjects. It seems like a constant theme is to throw myself at a task with no real idea how to start, work on it for a few hours and give up in frustration, only to wake up and know exactly what to do. But resources like the [Markdown Cheatsheet][markdown] are immensely helpful, letting me focus on the parts of coding which aren't just syntax memorization.
+
+Anyways, here are a couple of cute pictures I found while looking for replacement images in step two.
+<span class="image right"><img src="{{ "https://cdn.pixabay.com/photo/2014/05/20/21/25/chicks-349035_1280.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "https://cdn.pixabay.com/photo/2016/11/22/19/32/kingfisher-1850226_1280.jpg" | absolute_url }}" alt="" /></span>
+
+
+[gif]:https://media.discordapp.net/attachments/224296329717874692/625512821572108299/wheretheygo.gif?width=1180&height=602
+[markdown]:https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
