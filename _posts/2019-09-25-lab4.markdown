@@ -4,8 +4,6 @@ title:  "Lab 4"
 date:   2019-09-25 21:06:33 -0500
 categories: jekyll update
 ---
-Make a new post about styling your blog with this more difficult template. You must include at least two links and two images in your post. What parts were new to you? What parts did you struggle with? What parts still do not make sense? What are you looking forward to?
-
 It feels like no matter which step I was on, my next goal was like a rotating 4D cube. I could see it in front of me, but it would keep changing and I never quite understood. I made the initial mistake of trying to implement Jasper by dragging over a couple files at a time as the command prompt requested them in the server. What I ended up with was a jumbled mess of files that I had to eventually just scrap and revert a night's worth of work. I learned that if a certain approach isn't working, it's probably worth reverting and trying another method instead of hardheadedly trying the same thing.
 
 I did get fed up enough to capture one of the recurring problems, where I would watch files physically delete themselves, as a [gif][gif]. I think the part I struggled *most* with was finding what file to change that wouldn't be edited by another file when the server was run. Simply doing ctrl+f and replacing all instances of a website link with another seemed to work less than half the time. It still feels like a guessing game when I change a file, I can only hope when I run the server that the html doesn't revert to what it was before.
