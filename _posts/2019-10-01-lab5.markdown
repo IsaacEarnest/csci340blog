@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Lab 5"
+date:   2019-10-01 21:06:33 -0500
+categories: jekyll update
+---
+When designing the framework, one of the assumptions I made was that when the seller was paid for his item, the 5% auction fee would be automatically taken off by the company. Since I already had the final price of the item as an entry, adding an additional entry to the successful auction connection seemed redundant.
+
+![](https://cdn.discordapp.com/attachments/321819225683525633/628789366524870676/Capture1.PNG)
+
+When making the draw.io version, the diagram felt fairly complete. But when I opened up Vertabelo and saw their example of a "simple" framework, I realized I could make my diagram a whole lot more complex. It feels like the real issue is finding a balance between what the client wants out of their program, as it seems really easy to add too much.
+
+![](https://cdn.discordapp.com/attachments/321819225683525633/628789376381353994/Capture.PNG)
