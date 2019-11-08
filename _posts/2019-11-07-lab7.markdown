@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Lab 7"
+date:   2019-10-15 23:06:33 -0500
+categories: jekyll update
+---
+This one was quite the struggle, and for all the wrong reasons. I spent the last few days of my vacation sick, which was right around the time I had allotted for this lab. I then resolved to just let it be late and work on it after I came back. Unfortunately that just meant I was both sick and jetlagged while putting the webpage together, so there were a handful of times I got stuck for chunks of time because things were spelled slightly incorrectly. Most of the Kahn Academy tutorials were things covered in class, but there were a few new functions and interactions from there that I found useful. At this point, using the APIs doesn't seem that difficult, and there's a lot of potential to do exciting things in the future. The delay on the setTimeout function is still broken, but for now I'll call that the dev testing mode. 
+
+Aside from the cs learned in this lab, I also learned how hard it is to stay caught up on schoolwork while traveling. If nothing else, this is a good lesson in time management.
