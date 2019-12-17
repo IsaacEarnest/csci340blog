@@ -1,1 +1,13 @@
-<!html>
+---
+layout: post
+title:  "Final Review"
+date:   2019-12-16 23:42:33 -0500
+categories: jekyll update
+---
+
+I had worked in small groups before in Scalable Software, but working for an actual organization- namely the school I go to- was an entirely different experience. Instead of convincing myself to be content with where I wanted to be with the project, I felt a constant drive to keep improving to a point where the client would be happy. 
+	Our clients, Dr. Pfau and Dr. Leonard, were happy with anything we showed them, from the initial Moqup designs to our multiple and ever-changing concepts behind how teachers should access the site. What they had at the time was nothing more than an excel spreadsheet that they emailed out individually to each teacher, which they then went through and aggregated it themselves into another spreadsheet. As soon as my group heard this, we knew almost anything we made would be a major improvement. But there was something about the fact that the work was intended to be professionally used- not just as a one-and-done class project- that drove us to work towards something greater than a glorified spreadsheet. We took it upon ourselves to add teacher log-ins that used Hendrix emails, a survey page that automatically updated with the Hendrix course API, and I personally went all-out on a clean, user friendly interface. 
+	As the sole front-end person on my group, I took it upon myself to use Bootstrap to its fullest potential. Things like modals and forms seemed like a nightmare to code from scratch, but Bootstrap saved the day time after time. 
+	The one major emphasis we had to keep in mind as a group is user-friendliness. Not all teachers at Hendrix are as tech-savvy as computer scientists (surprising, I know), so the idea was to either keep it like the spreadsheet or to make it simpler. We attempted to make it simpler by making it more like a google form, and having the questions automatically pop up based on the teacher. Griffith did some amazing things to get that part to work, and I think the clients will be very happy. 
+	Another part of the class that made me consider the scope of this class was when a graduate came in and talked about his job and past projects. While the completeness and scale of the projects were definitely different, it brought into perspective just how applicable the contents of this class were to the real world. Our group, while hard to keep on track at times, got work done when asked; something that would be considered mandatory in the workplace. The project as a whole had a professional feel, requiring dozens of hours of out-of-class work time. 
+	In all, I acquired a new perspective on how a  website-building job would function in the real world, taking into account the wants (and far-off dreams) of the client. 
